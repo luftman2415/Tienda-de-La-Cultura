@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Tienda La Cultura - Inventario</title>
+    <title>Tienda-de-La-Cultura - Inventario</title>
     <link rel="icon" href="favicon.png" type="image/png">
     <style>
         :root { --primary-color: #3498db; --success-color: #2ecc71; --error-color: #e74c3c; --danger-color: #c0392b; --info-color: #f39c12; }
@@ -142,4 +142,5 @@
 
     <script src="app.js"></script>
 </body>
+
 </html>
